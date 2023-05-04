@@ -1,5 +1,5 @@
 # HTQL-ThuVien
-Hệ thống quản lý thư viện được xây dựng bằng ngôn ngữ C
+Hệ thống quản lý thư viện được xây dựng bằng ngôn ngữ C \n
 Các chức năng của hệ thống:
 1. Nhập danh sách sách
 2. Cập nhật thông tin sách
